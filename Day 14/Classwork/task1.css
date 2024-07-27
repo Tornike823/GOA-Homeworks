@@ -1,0 +1,24 @@
+.text{
+    padding-left: 210px;
+    transform:translateY(-200px);
+    position: relative;
+    color: white;
+}
+.header{
+    background-color: grey;
+}
+.img{
+    padding-left: 1490px;
+}
+.text1{
+    padding-left: 770px;
+}
+.text2{
+    padding-left: 1490px;
+}
+.title{
+    font-size: 100px;
+}
+.footer{
+    background-color: grey;
+}

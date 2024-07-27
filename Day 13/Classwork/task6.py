@@ -1,0 +1,1 @@
+"""Concatenation in Python refers to the process of combining two or more strings (or sometimes other sequences) into a single string. This operation is achieved using the + operator. Here’s how concatenation works in Python:"""
