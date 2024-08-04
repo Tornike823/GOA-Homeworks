@@ -1,0 +1,27 @@
+.body{
+    background-color: rgb(43, 43, 43);
+}
+.text{
+    color: white;
+    padding-left: 410px;
+     position: relative;
+     transform: translateY(-400px);
+
+
+}
+.title{
+    color: white;
+    font-size: 100px;
+}
+.button{
+    position: relative;
+    transform: translateY(-170px);
+    width: 200px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    color: black;
+    cursor: pointer;
+}
+.button:hover{
+    border: black;
+}
