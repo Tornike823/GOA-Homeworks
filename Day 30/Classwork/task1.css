@@ -1,0 +1,7 @@
+.txt{
+    color: violet;
+    font-size: 50px;
+    font-weight: 400;
+    font-style: italic;
+  text-shadow: 4px 4px 8px rgba(183, 0, 255, 0.37);
+}
