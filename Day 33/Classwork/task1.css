@@ -1,0 +1,15 @@
+div{
+    width: 500px;
+    height: 500px;
+    border: 2px solid rgb(80, 7, 163);
+    background-color: rgb(69, 41, 168);
+    cursor: pointer;
+
+}
+div:hover{
+    border-radius: 50%;
+    border: 2px solid rgb(69, 41, 168);
+    background-color: rgb(80, 7, 163);
+    box-shadow: 10px 10px 10px rgb(134, 15, 202);
+  transition-duration: 0.5s;
+}
