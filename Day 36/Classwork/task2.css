@@ -1,0 +1,12 @@
+div{
+    width: 600px;
+    height: 600px;
+    border: 2px solid black;
+    background-image: url(https://media.giphy.com/media/swd4nKgyFa7Zu/giphy.gif);
+}
+button{
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+    
+}

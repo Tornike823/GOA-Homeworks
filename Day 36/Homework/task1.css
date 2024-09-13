@@ -1,0 +1,15 @@
+body{
+     background-color: black;
+}
+div{
+    align-items: center;
+    border: 2px solid white;
+    width: 1800px;
+    height: 600px;
+}
+img{
+    box-shadow: 10px 10px 10px rgb(212, 212, 212);
+}
+a{
+    color: white;
+}
