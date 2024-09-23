@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:  hsl(225, 100%, 94%);
+}
+
+.main{
+    width: 400px;
+    height: 600px;
+    background-color: white;
+    margin-top: 150px;
+    border-radius: 25px;
+}
+
+img{
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    width: 400px;
+    height: 200px;
+}
+
+.txt{
+    color: rgb(41, 41, 80);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top:25px ;
+}
+
+.text{
+    margin-top: 25px;
+}
+
+h4{
+    color: rgb(0, 0, 0);
+    opacity: 40%;
+}
+
+.play{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(247, 242, 242);
+    margin-top: 25px;
+    border-radius: 15px ;    
+    cursor: pointer;  
+}
+
+h3{
+    margin-left: 10px;
+    color:rgb(41, 41, 80) ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+
+h5{
+    margin-left: 10px;
+    color: black;
+    opacity: 30%;
+ 
+}
