@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.title{
+    margin-left: 200px;
+    margin-top: 70px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    color: rgb(33, 33, 78);
+}
+
+.heder{
+    margin-left: 500px;
+    margin-top: -45px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.heder1{
+    margin-left: 800px;
+    margin-top: -33px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.heder2{
+    margin-left: 1100px;
+    margin-top: -31px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.but{
+    cursor: pointer;
+    width: 200px;
+    height: 50px;
+    border-radius: 25px;
+    border: none;
+    background-color: aquamarine;
+    color: white;
+    font-size: 30px;
+    margin-left: 1300px;
+  transform: translateY(-40px);
+    position: relative;
+}
+
+.imgg{
+    width: 400px;
+    height: 700px;
+    position: relative;
+}
+
+.imgg1{
+    width: 400px;
+    height: 700px;
+    position: relative;
+    transform: translateX(300px);
+    
+}
+
+.imgg2{
+    width: 400px;
+    height: 700px;
+    position: relative;
+    transform: translateX(700px);
+}
+
+div{
+    width: 1950px;
+    height: 100px;
+    background-color: aquamarine;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
