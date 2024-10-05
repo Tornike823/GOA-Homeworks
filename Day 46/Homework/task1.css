@@ -1,0 +1,12 @@
+tr{
+    background-color: aquamarine;
+    width: 400px;
+}
+.tr1{
+    background-color: rgb(226, 189, 119);
+}
+
+table{
+    border: 2px solid aquamarine;
+    border-collapse:collapse ;
+}
