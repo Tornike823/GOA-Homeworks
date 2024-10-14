@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div{
+    width: 450px;
+    height: 400px;
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgb(179, 178, 178);
+    margin-left: 1200px;
+    margin-top: 250px;
+}
+body{
+    background-color: rgb(240, 240, 240);
+}
+
+.email{
+    width: 400px;
+    height: 50px;
+    border: 2px solid rgb(197, 197, 197);
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+.password{
+    width: 400px;
+    height: 50px;
+    border: 2px solid rgb(197, 197, 197);
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+.but{
+    width: 400px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 30px;
+    background-color: rgb(0, 102, 255);
+    color: white;
+    cursor: pointer;
+}
+
+.forgot{
+    color: rgb(0, 89, 255);
+    text-decoration: none;
+    cursor: pointer;
+    margin-left: 165px;
+}
+
+.create{
+    width: 400px;
+    height: 50px;
+    border: none;
+    font-size: 25px;
+    background-color: rgb(70, 223, 10);
+    color: white;
+    border-radius: 15px; 
+    margin-left: 20px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+.img1{
+    width: 400px;
+    height: 100px;
+    transform: translateY(-350px);
+    position: relative;
+    margin-left: 200px;
+}
