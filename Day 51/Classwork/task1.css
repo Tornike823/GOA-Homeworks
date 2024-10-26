@@ -1,0 +1,27 @@
+
+.inline{
+    width: 400px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 25px;
+    display: inline;
+    background-color: aquamarine;
+}
+
+.block{
+    width: 400px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 25px;
+    display: block;
+    background-color: bisque;
+}
+
+.inline-block{
+    width: 400px;
+    height: 200px;
+    border: 2px solid black;
+    background-color: blueviolet;
+    display: inline-block;
+    border-radius: 25px;
+}
