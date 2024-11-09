@@ -1,0 +1,19 @@
+button{
+    width: 400px;
+    height: 150px;
+    border: none;
+    background-color: aquamarine;
+    color: white;
+    font-size: 50px;
+    transition: 5s;
+}
+
+button:hover{
+    width: 800px;
+    height: 300px;
+    margin-left: 200px;
+    background-color: blueviolet;
+    font-size: 100px;
+    border-radius: 25px;
+    box-shadow: 100px 100px 100px blueviolet;
+}

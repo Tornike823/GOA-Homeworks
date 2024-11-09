@@ -1,0 +1,14 @@
+div{
+    width: 400px;
+    height: 600px;
+    border: 2px solid burlywood;
+    background-color: burlywood;
+    transition: 5s;
+    font-size: 50px;
+    color: white;
+}
+
+div:hover{
+    margin-top: -200px;
+    border-radius: 25px;
+}
