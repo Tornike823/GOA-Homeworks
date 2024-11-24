@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: black;
+    opacity: 0%;
+    font-size: 50px;
+}
+
+h1:hover{
+    opacity: 100%;
+    transition: 6s;
+}
+
+div{
+    width: 600px;
+    height: 800px;
+    border: 2px solid red;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    opacity: 50%;
+}
+
+img:hover{
+    width: 400px;
+    height: 400px;
+    opacity: 100%;
+    transition: 5s;
+}
+
+.div1{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+}
