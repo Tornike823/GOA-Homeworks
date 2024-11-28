@@ -1,0 +1,85 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.div1{
+    width: 500px;
+    height: 800px;
+    background-image: linear-gradient(to bottom right, rgb(174, 0, 255), rgb(124, 12, 119));
+    border-end-end-radius: 60%;
+}
+
+.div2{
+    width: 500px;
+    height: 800px;
+    background-image: linear-gradient(to bottom right, rgb(174, 0, 255), rgb(124, 12, 119));
+    border-top-left-radius: 60%;
+    margin-left: 1365px;
+    margin-top: -645px;
+    opacity: 2%;
+}
+
+.main1{
+    width: 350px;
+    height: 650px;
+    background-color: rgb(240, 237, 237);
+    border: 10px solid rgb(255, 255, 255);
+    border-radius: 50px;
+    margin-top: -800px;
+    margin-left: 400px;
+    display: flex;
+    box-shadow: 20px 10px 100px rgb(207, 207, 207);
+}
+
+.div3{
+    width: 150px;
+    height: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    margin-left: 80px;
+}
+
+body{
+    background-color: rgb(238, 236, 236);
+}
+
+.div4{
+    width: 1000px;
+    height: 100px;
+    background-image: linear-gradient(to bottom right, rgb(174, 0, 255), rgb(124, 12, 119));
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius:5px ;
+    border-bottom-right-radius:5px ;
+}
+
+.img1{
+    width: 40px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.p1{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    margin-top: -30px;
+    margin-left: 70px;
+}
+
+.h2{
+    color: rgb(17, 2, 34);
+    font-size: 50px;
+    margin-left: 800px;
+    margin-top: -500px;
+}
+
+.h4{
+    margin-left: 800px;
+    opacity: 50%;
+}

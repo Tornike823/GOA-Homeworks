@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.grid_cont{
+     display: grid;
+     display: inline-grid;
+}
+
+.div1{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    margin-top: 50px;
+    border: 2px solid black;
+}
+
+.grid_cont1{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.div2{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    margin-top: 50px;
+    border: 2px solid black;
+}
