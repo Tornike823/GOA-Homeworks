@@ -1,0 +1,13 @@
+
+.div1{
+    width: 200px;
+    height: 100px;
+    background-color: pink;
+}
+
+.div1:hover{
+    width: 250px;
+    height: 150px;
+    background-color: orange;
+    transition: 1ms;
+}
